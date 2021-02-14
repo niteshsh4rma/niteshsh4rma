@@ -1,4 +1,4 @@
-<center> Hi, I'm Nitesh Sharma 👋</center>
+<div style="text-align=center"> Hi, I'm Nitesh Sharma 👋</div>
 <hr>
 
 

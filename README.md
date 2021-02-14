@@ -1,6 +1,5 @@
-### Hi there 👋
-
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshsh4rma&show_icons=true)
+<center>### Hi, I'm Nitesh Sharma 👋</center>
+<hr>
 
 
 - 🔭 I’m currently working on MERN

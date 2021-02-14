@@ -1,4 +1,4 @@
-<center>### Hi, I'm Nitesh Sharma 👋</center>
+<center> Hi, I'm Nitesh Sharma 👋</center>
 <hr>
 
 

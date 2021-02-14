@@ -1,4 +1,4 @@
-<div style="text-align=center"> Hi, I'm Nitesh Sharma 👋</div>
+<h1 align="center">Hi, I'm Nitesh Sharma</h1>
 <hr>
 
 

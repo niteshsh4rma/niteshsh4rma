@@ -3,9 +3,8 @@
 
 
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Neural Networks
-- 🤔 I’m looking for help with GAN 
-- ⚡ Fun fact: Software Engineers are just digital labourers.
+- 🌱 I’m currently learning React Native
+- ⚡ Ask me about JavaScript, Data Structures and Algorithms, React, React Native, Node.js
 - 📩 <a href="mailto:niteshsharma312000@gmail.com">niteshsharma312000@gmail.com</a>
 
 

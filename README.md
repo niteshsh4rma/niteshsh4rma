@@ -2,8 +2,8 @@
 <hr>
 
 
-- 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning MicroServices with GoLang
 - ⚡ Ask me about JavaScript, Data Structures and Algorithms, React, React Native, Node.js
 - 📩 <a href="mailto:niteshsharma312000@gmail.com">niteshsharma312000@gmail.com</a>
 

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning MicroServices with GoLang
-- ⚡ Ask me about JavaScript, Data Structures and Algorithms, React.js, React Native, Node.js, FLutter, GoLang, Dart, Python
+- ⚡ Ask me about JavaScript, Data Structures and Algorithms, React.js, React Native, Node.js, Flutter, GoLang, Dart, Python
 - 📩 <a href="mailto:niteshsharma312000@gmail.com">niteshsharma312000@gmail.com</a>
 
 

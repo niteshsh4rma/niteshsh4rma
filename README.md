@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-niteshsh4rma-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:niteshsharma312000@gmail.com)](mailto:niteshsharma312000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-niteshsharma312000-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:niteshsharma312000@gmail.com)](mailto:niteshsharma312000@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@niteshsh4rma1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/niteshsh4rma1)](https://twitter.com/niteshsh4rma1)
 
 ## Hey what's up? 🐦 I'm Nitesh Sharma - aka [**_niteshsh4rma_**](https://github.com/niteshsh4rma/) here 👋👨‍💻
@@ -42,17 +42,17 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&theme=gruvbox&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&margin-w=15&include_all_commits=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&theme=radical&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&margin-w=15&include_all_commits=true&count_private=true)
 
 <div>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshsh4rma&layout=compact&theme=gruvbox" alt="niteshsh4rma" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshsh4rma&layout=compact&theme=radical" alt="niteshsh4rma" />
 </div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niteshsh4rma&count_private=true&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshsh4rma&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niteshsh4rma&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshsh4rma&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=niteshsh4rma&theme=xcode&area=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=niteshsh4rma&theme=radical&area=true" />
 </div>

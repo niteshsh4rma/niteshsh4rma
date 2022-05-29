@@ -3,6 +3,7 @@
 
 ## Hey what's up? 🐦 I'm Nitesh Sharma - aka [**_niteshsh4rma_**](https://github.com/niteshsh4rma/) here 👋👨‍💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshsh4rma" alt="niteshsh4rma" /> </p>
 ---
 
 ### **_Language:_**

@@ -40,8 +40,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</br>
-
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&theme=radical&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&margin-w=15&include_all_commits=true&count_private=true)

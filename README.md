@@ -42,9 +42,6 @@
 
 ---
 
-### **_Holopin Board:_**
-[![@niteshsh4rma's Holopin board](https://holopin.io/api/user/board?user=niteshsh4rma)](https://holopin.io/@niteshsh4rma)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&theme=radical&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&margin-w=15&include_all_commits=true&count_private=true)
 
 <div>
@@ -59,3 +56,8 @@
 <div>
   <img src="https://activity-graph.herokuapp.com/graph?username=niteshsh4rma&theme=radical&area=true" />
 </div>
+
+---
+
+### **_Holopin Board:_**
+[![@niteshsh4rma's Holopin board](https://holopin.io/api/user/board?user=niteshsh4rma)](https://holopin.io/@niteshsh4rma)

@@ -49,8 +49,8 @@
 </div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niteshsh4rma&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshsh4rma&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteshsh4rma&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteshsh4rma&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---

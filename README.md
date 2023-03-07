@@ -52,8 +52,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteshsh4rma&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteshsh4rma&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
----
-
-### **_Holopin Board:_**
-[![@niteshsh4rma's Holopin board](https://holopin.io/api/user/board?user=niteshsh4rma)](https://holopin.io/@niteshsh4rma)

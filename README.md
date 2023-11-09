@@ -44,9 +44,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&theme=radical&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=niteshsh4rma&margin-w=15&include_all_commits=true&count_private=true)
 
-<div>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshsh4rma&layout=compact&theme=radical" alt="niteshsh4rma" />
-</div>
 
 <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteshsh4rma&count_private=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
